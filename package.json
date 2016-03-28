@@ -1,0 +1,22 @@
+{
+  "name": "subcast-nodejs",
+  "version": "1.0.0",
+  "description": "An API client for http://subcast.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Compy/subcast-nodejs.git"
+  },
+  "keywords": [
+    "subcast"
+  ],
+  "author": "Subcast <hello@subcast.io> (http://subcast.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Compy/subcast-nodejs/issues"
+  },
+  "homepage": "https://github.com/Compy/subcast-nodejs#readme"
+}
